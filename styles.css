@@ -187,7 +187,7 @@
     padding: 10px;
     margin: 10px;
     background: aqua;
-    height: 2in; /*using Inches as a different cs unit*/
+    height: 2in; /*using Inches as a different css unit*/
     display: flex;
     flex: 1;
   }
